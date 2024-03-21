@@ -1,1 +1,1 @@
-Lees esto  es una prueba ubu
+Lista de alumnos
